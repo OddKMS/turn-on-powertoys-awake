@@ -22,8 +22,13 @@ First, download and install [Microsoft PowerToys](https://github.com/microsoft/P
    <img src="images/create-basic-task-step-2.png" alt="Create Basic Task dialogue. 'Name' has been filled in with 'Keep awake at logon'. 'Description' is blank." width="300"/>
 
 5. For the trigger, select "When I log on"
+   - (You can add an extra trigger called "On workstation unlock" <br>
+      by editing the Task afterwards, for redundancy)
+   
+   <br>
 
    <img src="images/create-basic-task-step-3.png" alt="The task trigger 'When I log on' has been selected from various other options." width="300"/>
+   
 
 6. Select "Start a program" as the action to be performed.
 
